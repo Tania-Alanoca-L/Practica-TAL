@@ -4,9 +4,6 @@
 **U**n sistema empresarial es un sistema central de la organización, que garantiza que la información se constituya el conjunto de recursos de la empresa que sirven como soporte para el proceso básico de captación, transformación, comunicación de la información y que se pueda transmitir atraves de todas las funciones empresariales, y todos los niveles de gestión, para soportar la operación y administración de una empresa. 
 
 <span style="color:red">Texto *11111111* normal</span>
-<body>
-  <p style="color:red;">Red paragraph text</p>
-</body>
 
 ***2.Describa cuales son las características mas importantes de una aplicación empresarial***
  
