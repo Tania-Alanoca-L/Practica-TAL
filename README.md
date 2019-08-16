@@ -1,4 +1,16 @@
 # PRACTICA N° #1
+# ***___UNIVERSIDAD PUBLICA DE EL ALTO___***
+___
+# ***CARRERA:***          **INGENIERIA DE SISTEMAS**
+___
+# ***MATERIA:***          **EMERGENTES II**  
+___
+# ***DOCENTE:***          **Lic. MARIO TORREZ C.**
+____
+# ***ESTUDIANTE:***       **TANIA ALANOCA LARICO**
+____
+
+
  ***1.Explique que son los sistemas empresariales***
  
 **U**n sistema empresarial es un sistema central de la organización, que garantiza que la información se constituya el conjunto de recursos de la empresa que sirven como soporte para el proceso básico de captación, transformación, comunicación de la información y que se pueda transmitir atraves de todas las funciones empresariales, y todos los niveles de gestión, para soportar la operación y administración de una empresa. 
@@ -69,7 +81,7 @@ Usualmente se trata de un dispositivo de software que proporciona servicios de a
 
 
 ***6.Con un gráfico explique cómo funciona el protocolo HTTP***
-![](pictures/001.png)
+[](pictures/001.png)
 
  
 
