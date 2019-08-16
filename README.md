@@ -107,21 +107,22 @@ HTTP Response Structure from Web Server, no hay mayor ciencia en la comunicació
 
  
 ***10.Explique cuáles son los contenedores, componentes y servicios de Java EE.***
-CONTENEDORES
 
-Java EE Server: La porción de tiempo de ejecución de un producto Java EE. Provee los contenedores web y de ejb.
+***CONTENEDORES***
 
-
-Contenedor EJB: Maneja la ejecución de los enterprise beans.
+***Java EE Server:*** La porción de tiempo de ejecución de un producto Java EE. Provee los contenedores web y de ejb.
 
 
-Contenedor Web: Maneja la ejecución de las páginas web, servlets y algunos componentes ejb para las aplicaciones Java EE.
+***Contenedor EJB:*** Maneja la ejecución de los enterprise beans.
 
 
-Contenedor de aplicación cliente: Maneja la ejecución de la aplicación cliente no necesita un servidor de aplicaciones.
+***Contenedor Web:*** Maneja la ejecución de las páginas web, servlets y algunos componentes ejb para las aplicaciones Java EE.
 
 
-Contenedor Applet: Maneja la ejecución de applets, no necesita servidor de aplicaciones, consiste en un browser y el plugin web de java
+***Contenedor de aplicación cliente:*** Maneja la ejecución de la aplicación cliente no necesita un servidor de aplicaciones.
+
+
+**Contenedor Applet:*** Maneja la ejecución de applets, no necesita servidor de aplicaciones, consiste en un browser y el plugin web de java
 
 ***COMPONENTES***
 
